@@ -21,4 +21,6 @@ Nidejia Dashboard is a personal project aimed at showcasing my expertise in fron
 Get in Touch:
 Explore Nidejia Dashboard on GitHub and feel free to reach out for any inquiries, feedback, or collaboration opportunities.
 
+Figma project from https://shaynakit.com/details/nidejia-dashboard-pages-design, you can download from this.
+
 #I used the Tailwind CSS framework to build this interface.#
